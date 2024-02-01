@@ -1,0 +1,11 @@
+{
+  "name": "dormhub",
+  "version": "1.0.0",
+  "description": "Hostel Management portal for Disang Hostel, IIT Guwahati",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khushi Bothra",
+  "license": "ISC"
+}
